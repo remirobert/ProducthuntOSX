@@ -13,9 +13,10 @@ Feel free to open requests and issues in the repository!
 Let's the hunt begin !!! 🔥
 ===========================
 
-Installation
-=============
 How to Install
-Download the latest version via the releases page
-Drag & Drop into your /Applications folder
-Launch!
+==============
+
+1. Download the latest version via the [releases](https://github.com/remirobert/ProducthuntOSX/releases) page
+1. Drag & Drop into your `/Applications` folder
+1. Launch!
+1. Enjoy !!

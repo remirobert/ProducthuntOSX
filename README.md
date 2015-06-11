@@ -8,6 +8,8 @@ Currently it opens the link in a new tab on your browser.
 
 Feel free to open requests and issues in the repository!
 
+![logo](https://raw.githubusercontent.com/remirobert/ProducthuntOSX/master/Documentation/screenshot.png)
+
 Let's the hunt begin !!! 🔥
 ===========================
 

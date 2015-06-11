@@ -1,5 +1,7 @@
 ![logo](https://raw.githubusercontent.com/remirobert/ProducthuntOSX/master/Documentation/logo.png)
 
+![badge](https://img.shields.io/badge/plateform-OSX-ff69b4.svg) ![badge](https://img.shields.io/github/downloads/ProducthuntOSX/ProducthuntOSX/latest/total.svg) ![badge](https://img.shields.io/badge/price-Free-blue.svg) [![badge](https://img.shields.io/badge/-Download-orange.svg)](https://github.com/remirobert/ProducthuntOSX/releases)
+
 **Product hunt application for OS X**
 
 ProducthuntOSX is a wrapper made for Mac around Product hunt.
@@ -20,3 +22,4 @@ How to Install
 1. Drag & Drop into your `/Applications` folder
 1. Launch!
 1. Enjoy !!
+1. Give me a coffe.

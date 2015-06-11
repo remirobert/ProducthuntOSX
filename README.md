@@ -1,7 +1,6 @@
 ![logo](https://raw.githubusercontent.com/remirobert/ProducthuntOSX/master/Documentation/logo.png)
 
-![badge](https://img.shields.io/badge/plateform-OSX-ff69b4.svg) ![badge](https://img.shields.io/github/downloads/ProducthuntOSX/ProducthuntOSX/latest/total.svg)
-
+![badge](https://img.shields.io/badge/plateform-OSX-ff69b4.svg) ![badge](https://img.shields.io/github/downloads/ProducthuntOSX/ProducthuntOSX/latest/total.svg) ![badge](https://img.shields.io/badge/price-Free-blue.svg) ![badge](https://img.shields.io/badge/-Download-orange.svg)
 
 **Product hunt application for OS X**
 

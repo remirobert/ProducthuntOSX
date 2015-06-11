@@ -91,7 +91,7 @@
                     <window key="window" title="Product hunt" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="IQv-IB-iLA">
                         <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
                         <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-                        <rect key="contentRect" x="196" y="240" width="480" height="270"/>
+                        <rect key="contentRect" x="196" y="240" width="492" height="456"/>
                         <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1027"/>
                     </window>
                     <connections>
@@ -100,18 +100,18 @@
                 </windowController>
                 <customObject id="Oky-zY-oP4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="75" y="250"/>
+            <point key="canvasLocation" x="81" y="343"/>
         </scene>
         <!--Product hunt-->
         <scene sceneID="hIz-AP-VOD">
             <objects>
                 <viewController title="Product hunt" id="XfG-lQ-9wD" customClass="ViewController" customModule="ProductHunt" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" id="m2S-Jp-Qdl">
-                        <rect key="frame" x="0.0" y="0.0" width="480" height="270"/>
+                        <rect key="frame" x="0.0" y="0.0" width="536" height="480"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
                             <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="M7g-bw-Hc5">
-                                <rect key="frame" x="136" y="48" width="209" height="174"/>
+                                <rect key="frame" x="164" y="153" width="209" height="174"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="209" id="4LX-e1-M3n"/>
                                     <constraint firstAttribute="height" constant="174" id="kxc-dv-38M"/>
@@ -119,8 +119,10 @@
                                 <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" image="product-hunt-logo-vertical-orange" id="0RQ-vK-wdn"/>
                             </imageView>
                             <webView translatesAutoresizingMaskIntoConstraints="NO" id="nT2-fw-EJW">
-                                <rect key="frame" x="0.0" y="0.0" width="480" height="270"/>
-                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12"/>
+                                <rect key="frame" x="0.0" y="0.0" width="536" height="480"/>
+                                <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12">
+                                    <nil key="identifier"/>
+                                </webPreferences>
                             </webView>
                         </subviews>
                         <constraints>
@@ -139,7 +141,7 @@
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="75" y="655"/>
+            <point key="canvasLocation" x="81" y="887"/>
         </scene>
     </scenes>
     <resources>

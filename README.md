@@ -22,3 +22,4 @@ How to Install
 1. Drag & Drop into your `/Applications` folder
 1. Launch!
 1. Enjoy !!
+1. Give me a coffe.

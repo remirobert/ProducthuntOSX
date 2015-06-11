@@ -1,5 +1,8 @@
 ![logo](https://raw.githubusercontent.com/remirobert/ProducthuntOSX/master/Documentation/logo.png)
 
+![badge](https://img.shields.io/badge/plateform-OSX-ff69b4.svg) ![badge](https://img.shields.io/github/downloads/ProducthuntOSX/ProducthuntOSX/latest/total.svg)
+
+
 **Product hunt application for OS X**
 
 ProducthuntOSX is a wrapper made for Mac around Product hunt.
